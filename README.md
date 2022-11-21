@@ -20,17 +20,15 @@ Everyone is constantly struggling in their own battle and counties are, too. For
 
 3.) and extent of funding in a specific community.
 
-### Data Vizualization
-![alt text](image.jpg)
-In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
-
 
 ### Benefit
 
 A county's health rate can increase tremendously through visualization of this dataset. Data visualization leads to a greater understanding of the numbers in the data. Through the use of data visualization in this data, we are able to better understand why some counties have lower health numbers than others.
 
 
-
+### Data Vizualization
+![Picture for visualization](image.jpg)
+In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
 
 
 ### Licensing
