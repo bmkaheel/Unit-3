@@ -21,5 +21,10 @@ Everyone is constantly struggling in their own battle and counties are, too. For
 A county's health rate can increase tremendously through visualization of this dataset. Data visualization leads to a greater understanding of the numbers in the data. Through the use of data visualization in this data, we are able to better understand why some counties have lower health numbers than others.
 
 
+### Accessing the Data and Jupyter Notebooks
+
+Above this README file, I have attached all the notebooks and data that are related to this project. You can access them by scrolling up and clicking on them.
+
+
 ### Licensing
 Terms of Use: I don't know what to type here yet but this section will be here.
