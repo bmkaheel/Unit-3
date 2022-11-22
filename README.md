@@ -27,7 +27,9 @@ A county's health rate can increase tremendously through visualization of this d
 
 
 ### Tobacco and Alcohol-Use Visualization
-![5eBGT-tobacco-use-by-county](https://user-images.githubusercontent.com/111814393/203340008-e59ba754-4d7a-4844-be61-8a7effcf8bb3.png)
+![5eBGT-tobacco-use-by-county (1)](https://user-images.githubusercontent.com/111814393/203340386-f69e8592-0657-4bda-8719-cfd9db564729.png)
+
+![F9SFq-alcohol-consumption (1)](https://user-images.githubusercontent.com/111814393/203340437-f3a44bfa-5355-4224-9cd4-b0d23c7948c5.png)
 
 
 In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
