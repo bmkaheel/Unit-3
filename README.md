@@ -33,7 +33,13 @@ A county's health rate can increase tremendously through visualization of this d
 
 ### Understanding our Data Visuals
 
-When we look at the charts above, they may seem as a couple different shades of blue put on a map of North Carolina but that is not the case. The different shades of blue indicate different levels of either tobacco-use (in the first map) or alcohol consumption (in the second map). In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. For example, the reason for The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
+When we look at the charts above, they may seem as a couple different shades of blue put on a map of North Carolina but that is not the case. The different shades of blue indicate something: 
+
+- different levels of either tobacco-use (in the first map),
+- or alcohol consumption (in the second map). 
+
+In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. 
+For example, the reason for a higher premature death rate in Swain County is probably linked to the extensive use of tobacco and alcohol consumption. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
 
 
 ### Licensing
