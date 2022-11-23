@@ -31,8 +31,9 @@ A county's health rate can increase tremendously through visualization of this d
 
 ![Alcohol Consumption](https://user-images.githubusercontent.com/111814393/203340437-f3a44bfa-5355-4224-9cd4-b0d23c7948c5.png)
 
+### Understanding our Data Visuals
 
-In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
+When we look at the charts above, they may seem as a couple different shades of blue put on a map of North Carolina but that is not the case. The different shades of blue indicate different levels of either tobacco-use (in the first map) or alcohol consumption (in the second map). In this data representation, we can better visualize each county's levels of tobacco and alcohol use. We can use this data from the chart to better identify any correlation between these levels and the health data of that county. For example, the reason for The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
 
 
 ### Licensing
